@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://dwinston.github.io/blog/2014/02/02/a-symbol-as-a-chest-of-drawers/</loc>
+        <lastmod>2014-02-02T20:51:29-08:00</lastmod>
+    </url>
+    <url>
         <loc>http://dwinston.github.io/blog/archives/</loc>
-        <lastmod>2014-01-27T11:46:14-08:00</lastmod>
+        <lastmod>2014-02-02T20:51:29-08:00</lastmod>
     </url>
     <url>
         <loc>http://dwinston.github.io/</loc>
-        <lastmod>2014-01-27T11:46:14-08:00</lastmod>
+        <lastmod>2014-02-02T20:51:29-08:00</lastmod>
     </url>
     <url>
         <loc>http://dwinston.github.io/robots.txt</loc>
